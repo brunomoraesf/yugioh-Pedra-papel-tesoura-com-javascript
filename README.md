@@ -2,7 +2,7 @@
 Este é um jogo de Jo-ken-po desenvolvido por mim, incorporando elementos do universo Yu-Gi-Oh, como parte do meu aprendizado na DIO.
 
 ## Ver Demonstração
-<a href="https://brunomoraesdigital.github.io/dio-yugioh-Pedra-papel-tesoura/" target="_blank" rel="noopener noreferrer">Ver Demonstração</a>
+<a href="https://brunomoraesf.github.io/yugioh-Pedra-papel-tesoura-com-javascript/" target="_blank" rel="noopener noreferrer">Ver Demonstração</a>
 
 # Yu-Gi-Oh | Jo-ken-po Edition
 
@@ -31,8 +31,8 @@ O **Yu-Gi-Oh | Jo-ken-po Edition** combina a estratégia de cartas com a simplic
 Este projeto está licenciado sob a Licença MIT.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=google-chrome)](https://bmfolio.web.app/?utm_source=github&utm_medium=repo_yugioh-Pedra-papel-tesoura-com-javascript) 
-[![GitHub](https://img.shields.io/badge/GitHub-brunomoraesdigital-181717?logo=github)](https://github.com/brunomoraesdigital) 
-![Última atualização](https://img.shields.io/github/last-commit/brunomoraesdigital/yugioh-Pedra-papel-tesoura-com-javascript) 
+[![GitHub](https://img.shields.io/badge/GitHub-brunomoraesf-181717?logo=github)](https://github.com/brunomoraesf) 
+![Última atualização](https://img.shields.io/github/last-commit/brunomoraesf/yugioh-Pedra-papel-tesoura-com-javascript) 
 ![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_3.0-blue.svg) 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=brunomoraesdigital.yugioh-Pedra-papel-tesoura-com-javascript)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=brunomoraesf.yugioh-Pedra-papel-tesoura-com-javascript)
 
